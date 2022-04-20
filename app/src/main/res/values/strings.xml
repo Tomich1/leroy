@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LEROY CONVERTER</string>
+    <string name="radiobutton_rub">В Деревянных</string>
+    <string name="radiobutton_bl_rub">В Зайчиках</string>
+    <string name="radiobutton_grivn">В Гривнях</string>
+    <string name="button_convert_text">Конвертировать</string>
+    <color name="activity_color">#3399cc</color>
+
+    </resources>
